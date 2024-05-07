@@ -1,0 +1,7 @@
+mysql-connector-python==8.0.28
+Flask==2.0.1
+Flasgger==0.9.7.1
+pymongo==4.6.2
+python-dotenv==0.19.1
+requests==2.26.0
+Werkzeug==2.0.1
